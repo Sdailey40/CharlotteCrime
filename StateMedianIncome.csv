@@ -1,0 +1,55 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area,Dollar,Margin of Error
+0100000US,,United States,0100000US,,United States,United States,67871,212
+0100000US,,United States,0400000US01,1,United States - Alabama,Alabama,56828,414
+0100000US,,United States,0400000US02,2,United States - Alaska,Alaska,87365,1180
+0100000US,,United States,0400000US04,4,United States - Arizona,Arizona,61001,314
+0100000US,,United States,0400000US05,5,United States - Arkansas,Arkansas,53123,436
+0100000US,,United States,0400000US06,6,United States - California,California,72952,283
+0100000US,,United States,0400000US08,8,United States - Colorado,Colorado,77130,362
+0100000US,,United States,0400000US09,9,United States - Connecticut,Connecticut,91274,746
+0100000US,,United States,0400000US10,10,United States - Delaware,Delaware,73831,1124
+0100000US,,United States,0400000US11,11,United States - District of Columbia,District of Columbia,89023,2918
+0100000US,,United States,0400000US12,12,United States - Florida,Florida,59139,295
+0100000US,,United States,0400000US13,13,United States - Georgia,Georgia,61328,289
+0100000US,,United States,0400000US15,15,United States - Hawaii,Hawaii,83451,675
+0100000US,,United States,0400000US16,16,United States - Idaho,Idaho,59652,595
+0100000US,,United States,0400000US17,17,United States - Illinois,Illinois,73714,331
+0100000US,,United States,0400000US18,18,United States - Indiana,Indiana,62748,322
+0100000US,,United States,0400000US19,19,United States - Iowa,Iowa,69419,424
+0100000US,,United States,0400000US20,20,United States - Kansas,Kansas,68231,457
+0100000US,,United States,0400000US21,21,United States - Kentucky,Kentucky,56522,426
+0100000US,,United States,0400000US22,22,United States - Louisiana,Louisiana,58068,624
+0100000US,,United States,0400000US23,23,United States - Maine,Maine,64294,600
+0100000US,,United States,0400000US24,24,United States - Maryland,Maryland,92049,507
+0100000US,,United States,0400000US25,25,United States - Massachusetts,Massachusetts,90180,514
+0100000US,,United States,0400000US26,26,United States - Michigan,Michigan,63958,250
+0100000US,,United States,0400000US27,27,United States - Minnesota,Minnesota,79595,358
+0100000US,,United States,0400000US28,28,United States - Mississippi,Mississippi,50592,384
+0100000US,,United States,0400000US29,29,United States - Missouri,Missouri,62285,318
+0100000US,,United States,0400000US30,30,United States - Montana,Montana,63214,627
+0100000US,,United States,0400000US31,31,United States - Nebraska,Nebraska,69207,520
+0100000US,,United States,0400000US32,32,United States - Nevada,Nevada,62528,536
+0100000US,,United States,0400000US33,33,United States - New Hampshire,New Hampshire,83709,703
+0100000US,,United States,0400000US34,34,United States - New Jersey,New Jersey,90757,502
+0100000US,,United States,0400000US35,35,United States - New Mexico,New Mexico,55900,505
+0100000US,,United States,0400000US36,36,United States - New York,New York,74036,350
+0100000US,,United States,0400000US37,37,United States - North Carolina,North Carolina,59667,337
+0100000US,,United States,0400000US38,38,United States - North Dakota,North Dakota,77277,1026
+0100000US,,United States,0400000US39,39,United States - Ohio,Ohio,64433,289
+0100000US,,United States,0400000US40,40,United States - Oklahoma,Oklahoma,59742,358
+0100000US,,United States,0400000US41,41,United States - Oregon,Oregon,65479,463
+0100000US,,United States,0400000US42,42,United States - Pennsylvania,Pennsylvania,69960,279
+0100000US,,United States,0400000US44,44,United States - Rhode Island,Rhode Island,75655,975
+0100000US,,United States,0400000US45,45,United States - South Carolina,South Carolina,58158,436
+0100000US,,United States,0400000US46,46,United States - South Dakota,South Dakota,66825,671
+0100000US,,United States,0400000US47,47,United States - Tennessee,Tennessee,57747,338
+0100000US,,United States,0400000US48,48,United States - Texas,Texas,64585,237
+0100000US,,United States,0400000US49,49,United States - Utah,Utah,71058,398
+0100000US,,United States,0400000US50,50,United States - Vermont,Vermont,71465,914
+0100000US,,United States,0400000US51,51,United States - Virginia,Virginia,80068,436
+0100000US,,United States,0400000US53,53,United States - Washington,Washington,76507,403
+0100000US,,United States,0400000US54,54,United States - West Virginia,West Virginia,54409,566
+0100000US,,United States,0400000US55,55,United States - Wisconsin,Wisconsin,69925,300
+0100000US,,United States,0400000US56,56,United States - Wyoming,Wyoming,73654,884
+0100000US,,United States,0400000US72,72,United States - Puerto Rico,Puerto Rico,23417,221

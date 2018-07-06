@@ -1,0 +1,65 @@
+Date,NumberOfSubjects,Fatal,SubjectArmed,SubjectRace,SubjectGender,SubjectAge,NatureOfStop,NumberOfShots,NumberOfOfficers,OfficerRace,OfficerGender,Department,FullNarrative,city,Notes
+1/7/2010,1,N,NA,B,M,24,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+2/7/2010,1,N,NA,B,M,25,NA,NA,1,O,M,DeKalb County Police Department,NA,DekalbCounty,
+2/8/2010,1,F,NA,B,M,24,NA,NA,11,U;B;U;U;U;U;U;U;U;U;B,U;M;U;U;U;U;U;U;U;U;M,DeKalb County Police Department,NA,DekalbCounty,
+3/7/2010,1,F,NA,B,M,38,NA,NA,2,W;B,M;M,DeKalb County Police Department,NA,DekalbCounty,
+3/8/2010,1,N,NA,B,M,17,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+3/8/2010,1,N,NA,B,M,22,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+4/11/2010,1,N,NA,B,M,18,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS; 1 officer injured
+9/4/2010,2,N,NA,B;B,M;M,23;18,NA,NA,2,W;B,M;M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+9/28/2010,1,N,NA,B,M,29,NA,NA,3,W;W;W,M;M;M,DeKalb County Police Department,NA,DekalbCounty,officer injured
+10/24/2010,1,F,NA,B,M,17,NA,NA,2,B;B,M;M,DeKalb County Police Department,NA,DekalbCounty,
+11/29/2010,1,U,NA,U,U,U,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,victim unknown
+1/10/2011,1,N,NA,B,M,25,NA,NA,2,B;B,M;M,DeKalb County Police Department,NA,DekalbCounty,
+2/15/2011,1,N,NA,B,M,43,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+6/15/2011,1,N,NA,B,M,35,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+7/16/2011,1,N,NA,B,M,19,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+8/12/2011,1,F,NA,B,M,68,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,
+8/23/2011,1,N,NA,B,M,37,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+11/6/2011,1,N,NA,U,U,U,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,unknown victim
+2/11/2012,1,F,NA,B,M,21,NA,NA,2,B;W,M;M,DeKalb County Police Department,NA,DekalbCounty,
+2/25/2012,1,F,NA,B,M,29,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,
+3/2/2012,1,N,NA,B,M,46,NA,NA,3,W;W;B,M;M;M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+4/18/2012,1,N,NA,B,M,30,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS; officer injured
+4/22/2012,1,N,NA,B,M,34,NA,NA,1,W,F,DeKalb County Police Department,NA,DekalbCounty,
+6/28/2012,1,F,NA,W,M,31,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+8/12/2012,1,F,NA,B,M,52,NA,NA,2,W;B,M;M,DeKalb County Police Department,NA,DekalbCounty,
+9/1/2012,1,F,NA,L,M,18,NA,NA,1,L,M,DeKalb County Police Department,NA,DekalbCounty,
+9/2/2012,1,N,NA,B,M,17,NA,NA,2,B;B,F;M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+10/12/2012,1,N,NA,B,M,34,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+11/23/2012,1,F,NA,A,M,44,NA,NA,1,B;W,M;M,DeKalb County Police Department,NA,DekalbCounty,
+12/7/2012,1,N,NA,B,M,19,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+3/29/2013,1,N,NA,B,F,63,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+5/12/2013,1,N,NA,B,M,23,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+6/9/2013,1,N,NA,U,U,U,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+8/20/2013,1,N,NA,W,M,20,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+9/17/2013,1,N,NA,B,M,29,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+11/20/2013,1,N,NA,B,M,16,NA,NA,1,B,F,DeKalb County Police Department,NA,DekalbCounty,
+1/10/2014,1,N,NA,B,M,24,NA,NA,1,B,F,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+2/6/2014,1,N,NA,B,M,19,NA,NA,3,B;B;B,F;M;M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+3/3/2014,1,N,NA,B,M,40,NA,NA,2,B;B,M;M,DeKalb County Police Department,NA,DekalbCounty,
+3/20/2014,1,U,NA,B,M,U,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+4/6/2014,1,N,NA,B,M,18,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+6/16/2014,1,N,NA,B,M,18,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+6/20/2014,1,F,NA,B,M,51,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+9/30/2014,2,N,NA,B;U,M;U,29,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+10/2/2014,1,F,NA,B,M,19,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+10/9/2014,1,F,NA,B,M,39,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+12/12/2014,2,N,NA,B;U,M;U,37;U,NA,NA,3,B;B;L,M;M;M,DeKalb County Police Department,NA,DekalbCounty,
+12/21/2014,1,F,NA,O,M,20,NA,NA,2,W;W,M;M,DeKalb County Police Department,NA,DekalbCounty,
+12/29/2014,1,F,NA,B,M,44,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+3/9/2015,1,F,NA,B,M,27,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,
+4/6/2015,1,N,NA,B,M,28,NA,NA,2,B;W,M;M,DeKalb County Police Department,NA,DekalbCounty,
+7/8/2015,1,N,NA,B,M,U,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+7/12/2015,1,F,NA,B,M,24,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,
+9/18/2015,1,N,NA,B,M,21,NA,NA,2,B;B,M;M,DeKalb County Police Department,NA,DekalbCounty,NO HTIS
+9/27/2015,1,N,NA,B,M,26,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,
+4/27/2016,1,F,NA,A,M,34,NA,NA,1,W,M,DeKalb County Police Department,NA,DekalbCounty,
+5/2/2016,1,N,NA,B,M,24,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+9/1/2016,1,N,NA,B,M,26,NA,NA,1,B,F,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+12/4/2016,1,N,NA,B,M,54,NA,NA,1,B,M,DeKalb County Police Department,NA,DekalbCounty,NO HITS
+9/27/2015,1,U,NA,U,U,U,NA,NA,NA,,U,DeKalb County Police Department,NA,DekalbCounty,
+4/27/2016,1,U,NA,U,U,U,NA,NA,NA,,U,DeKalb County Police Department,NA,DekalbCounty,
+2/5/2016,1,U,NA,U,U,U,NA,NA,NA,,U,DeKalb County Police Department,NA,DekalbCounty,
+1/9/2016,1,U,NA,U,U,U,NA,NA,NA,,U,DeKalb County Police Department,NA,DekalbCounty,
+4/12/2016,1,U,NA,U,U,U,NA,NA,NA,,U,DeKalb County Police Department,NA,DekalbCounty,

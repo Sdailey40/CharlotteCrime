@@ -1,0 +1,47 @@
+Date,NumberOfSubjects,Fatal,SubjectArmed,SubjectRace,SubjectGender,SubjectAge,NatureOfStop,NumberOfShots,NumberOfOfficers,OfficerRace,OfficerGender,Department,FullNarrative,City,Notes
+1/17/2010,1,N,N,W,M,21,Fight / disorderly conduct,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"No Hit, Vehicle"
+5/17/2010,1,F,N,W,M,22,Mental crisis / suicide attempt,NA,2,"W, U","M, U",Fort Worth Police Department,NA,Fort Worth,
+5/27/2010,1,N,N,W,M,55,Drug suspicion / drug warrant,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,Vehicle
+5/31/2010,1,F,N,B,M,37,Burglary / home invasion,NA,1,B,M,Fort Worth Police Department,NA,Fort Worth,
+9/28/2010,1,N,Y,B,M,39,Robbery,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,No Hit
+10/1/2010,1,N,Y,B,M,17,Robbery,NA,1,U,U,Fort Worth Police Department,NA,Fort Worth,
+10/10/2010,1,N,U,W,M,22,Unknown,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,No Hit
+10/20/2010,1,N,N,B,M,35,Suspicious activity / patrol,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+2/28/2011,1,F,N,B,M,32,Traffic stop,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,Vehicle
+4/19/2011,1,N,Y,L,M,28,Shots fired / shooting,NA,1,H,M,Fort Worth Police Department,NA,Fort Worth,No Hit
+5/23/2011,1,N,N,L,M,17,Burglary / home invasion,NA,1,B,M,Fort Worth Police Department,NA,Fort Worth,Vehicle
+5/23/2011,1,F,N,W,F,46,Mental crisis / suicide attempt,NA,1,U,U,Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+7/12/2011,1,F,Y,W,M,70,Other,NA,3,"W, B, W","M, M, M",Fort Worth Police Department,NA,Fort Worth,
+8/23/2011,1,F,Y,W,M,47,Robbery,NA,1,U,U,Fort Worth Police Department,NA,Fort Worth,
+12/14/2011,1,N,N,B,M,20,Robbery,NA,3,"H, B, W","M, M, M",Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+12/25/2011,1,F,Y,B,M,29,Mental crisis / suicide attempt,NA,2,"W, B","F, M",Fort Worth Police Department,NA,Fort Worth,
+6/26/2012,1,F,Y,U,M,34,Shots fired / shooting,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+10/28/2012,1,N,Y,W,M,53,Domestic Disturbance,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+1/29/2013,1,F,Y,W,M,U,Drug suspicion / drug warrant,NA,1,U,U,Fort Worth Police Department,NA,Fort Worth,
+1/31/2013,1,N,Y,B,M,22,Mental crisis / suicide attempt,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+2/9/2013,1,F,N,W,M,21,Shots fired / shooting,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+4/24/2013,1,F,Y,B,M,29,Robbery,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+5/28/2013,1,F,Y,W,M,72,Burglary / home invasion,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+11/23/2013,1,F,N,W,M,24,Other,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,Vehicle
+3/6/2014,1,N,N,B,M,18,Burglary / home invasion,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+6/13/2014,1,F,Y,L,M,17,Burglary / home invasion,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+7/29/2014,1,N,Y,W,M,18,Other,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+10/18/2014,1,N,Y,B,M,46,Weapons disturbance,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+12/2/2014,1,F,N,W,M,35,Robbery,NA,1,H,M,Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+1/17/2015,1,F,N,W,M,27,Traffic stop,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,Knife
+1/29/2015,1,F,Y,W,M,40,Other,NA,2,"W, W","M,M ",Fort Worth Police Department,NA,Fort Worth,
+2/18/2015,1,N,Y,L,M,23,Fight / disorderly conduct,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+3/8/2015,1,N,N,W,M,29,Burglary / home invasion,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,Vehicle
+4/22/2015,1,F,Y,B,M,31,Shots fired / shooting,NA,2,"W, H","M, M",Fort Worth Police Department,NA,Fort Worth,
+6/23/2015,1,N,N,B,M,54,Weapons disturbance,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"Weapon listed as ""other"""
+7/31/2015,1,F,Y,U,M,30,Fight / disorderly conduct,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+12/19/2015,1,N,Y,W,M,34,Shots fired / shooting,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+2/12/2016,1,F,Y,W,M,53,"Execuition of a warrant ""suspect pulled out a firearm"" https://www.nbcdfw.com/news/local/Shooting-Involving-US-Marshals-in-Fort-Worth-Police-368676191.html",NA,3,"W,W, H","M,M,M",Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" "
+3/15/2016,1,F,Y,W,M,42,"Emergencey call, traffic stop, execuition of warrant",NA,2,"W,W","M,M",Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" Officer wounded http://www.star-telegram.com/news/local/community/fort-worth/article66192852.html"
+4/17/2016,1,N,Y,L,M,46,"Hostage, barrcade of other emergencey situation. ""appeared to be a rifle"" http://www.star-telegram.com/news/local/community/fort-worth/article72475392.html",NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" "
+5/20/2016,1,N,N,W,M,35,"Vehicle pursuit, foot pursuit, resisting arrest",NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,
+10/5/2016,1,N,Y,B,M,29,Execution of a warrant,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" shots fired at officers, handgun http://www.star-telegram.com/news/local/community/fort-worth/article106315112.html"
+10/26/2016,1,U,U,L,M,24,Execution of a warrant,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" Suspect drove over officer's foot http://www.star-telegram.com/news/local/community/fort-worth/article110751507.html"
+11/9/2016,1,N,Y,W,M,62,Emergencey call or request for assitance,NA,3,"H,H,A","M,M,M",Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" suicide by cop http://www.star-telegram.com/news/local/community/fort-worth/article113689179.html"
+12/30/2016,1,N,Y,W,M,25,Emergencey call or request for assitance,NA,1,W,M,Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"" rifle  http://www.star-telegram.com/news/local/community/fort-worth/article123951229.html"
+7/28/2016,1,N,U,B,M,33,Search for suspect in an aggravated robbery,NA,1,H,M,Fort Worth Police Department,NA,Fort Worth,"""Deadly Weapon"""

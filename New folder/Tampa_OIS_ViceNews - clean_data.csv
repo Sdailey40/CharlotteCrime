@@ -1,0 +1,36 @@
+Date,NumberOfSubjects,Fatal,SubjectArmed,SubjectRace,SubjectGender,SubjectAge,NatureOfStop,NumberOfShots,NumberOfOfficers,OfficerRace,OfficerGender,Department,FullNarrative,City,Notes
+2010,1,U,U,U,U,U,NA,NA,1,L,M,Tampa Police Department,NA,Tampa,Employee ID: 47844
+2/5/2010,1,N,Y,B,M,28,arrest,1,1,L,M,Tampa Police Department,NA,Tampa,"Employee ID: 41745, NO HITS"
+3/17/2010,1,N,N,B,M,28,arrest,4,2,W;W,M;M,Tampa Police Department,NA,Tampa,"Employee ID: 46327, 47745"
+2010,1,U,Y,U,U,U,NA,NA,1,L,M,Tampa Police Department,NA,Tampa,Employee ID: 48805
+4/29/2010,1,U,U,W,M,46,NA,10,2,W;W,M;M,Tampa Police Department,NA,Tampa,"Employee ID: 44441, 36257"
+2010,1,U,N,W,U,U,NA,NA,1,L,M,Tampa Police Department,NA,Tampa,Employee ID: 50176; knife
+2011,1,F,Y,W,M,26,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 49755
+2011,1,U,U,U,U,U,NA,NA,1,L,M,Tampa Police Department,NA,Tampa,Employee ID: 47844
+5/26/2011,1,F,Y,W,M,39,NA,8,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 45784
+6/12/2011,1,F,Y,W,M,73,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,"Employee ID: 45304, suicide"
+8/24/2011,1,F,Y,L,M,27,NA,1,1,B,M,Tampa Police Department,NA,Tampa,Employee ID: 49007
+2011,1,U,U,U,U,U,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 48614
+2011,1,U,U,U,U,U,NA,NA,1,W,F,Tampa Police Department,NA,Tampa,Employee ID: 49691
+2011,1,U,U,U,U,U,NA,NA,1,B,M,Tampa Police Department,NA,Tampa,Employee ID: 50009
+2012,1,F,Y,B,U,16,NA,NA,2,W;B,M;M,Tampa Police Department,NA,Tampa,"Employee ID: 47060, 49007 Javon Neal"
+9/30/2012,1,N,N,B,M,25,NA,13,1,L,M,Tampa Police Department,NA,Tampa,Employee ID: 42517
+2012,1,U,U,U,U,U,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 51254
+10/2/2012,1,N,N,W,M,23,NA,NA,2,W,M,Tampa Police Department,NA,Tampa,Employee ID: 45824
+12/11/2012,1,N,U,W,M,42,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,"Employee ID: 36732, report says victim pointed ""deadly weapon"" at officer but doesn't specify what kind of weapon"
+6/23/2013,1,U,N,B,M,40,NA,2,1,B,F,Tampa Police Department,NA,Tampa,Employee ID: 50922
+2013,1,U,U,U,U,U,NA,NA,4,W;W;B;W,M;M;M;M,Tampa Police Department,NA,Tampa,"Employee ID: 46137, 45824, 35602, 33139"
+1/2/2014,1,U,U,U,U,U,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 49245
+1/9/2014,1,N,Y,U,U,U,NA,5,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 47745
+1/15/2014,1,N,N,B,M,30,NA,10,1,B,M,Tampa Police Department,NA,Tampa,Employee ID: 49608; Hands
+2014,1,F,Y,W,M,30,NA,5,2,L;U,M;M,Tampa Police Department,NA,Tampa,Employee ID: 49528 - Police Shooting
+10/12/2014,1,F,Y,W,M,20,NA,4,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 47321
+3/4/2015,2,N;N,Y;U,B;U,M;U,30,NA,5,3,W;W;W,M;M;M,Tampa Police Department,NA,Tampa,"Employee ID: 28659, 49024, 46256"
+2015,1,U,U,U,U,U,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 45784
+2015,1,U,U,U,U,U,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 45162; Grand Theft Auto and Fleeing /Eluding TPD 15-612837;Justifiable Homicide
+2016,1,U,U,U,U,U,NA,NA,1,L,M,Tampa Police Department,NA,Tampa,Employee ID: 47378
+2016,1,U,U,U,U,U,NA,NA,3,W;L;W,M;M;M,Tampa Police Department,NA,Tampa,"Employee ID: 44943, 47846, 49610"
+2016,1,U,U,U,U,U,NA,NA,2,L;W,M;M,Tampa Police Department,NA,Tampa,"Employee ID: 46261, 52107"
+2016,1,U,U,U,U,U,NA,NA,2,W;W,M;M,Tampa Police Department,NA,Tampa,"Employee ID: 49261, 50744"
+2016,1,U,U,U,U,U,NA,NA,1,B,F,Tampa Police Department,NA,Tampa,Employee ID: 50922
+10/30/2016,1,U,U,U,U,U,NA,NA,1,W,M,Tampa Police Department,NA,Tampa,Employee ID: 34359
